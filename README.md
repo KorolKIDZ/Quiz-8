@@ -19,7 +19,7 @@ ARKit (Apple) and ARCore (Google) are currently the most advanced augmented real
 
 Using ARKit and ARCore, developers can implement applications like "Pokemon Go" that perfectly integrate virtual objects with the real world. For example, you could develop an educational app that lets students explore historical landmarks or biological specimens through AR.
 
-![ARKIT](ARKIT.png)
+![ARKIT](微信图片_20240430205704.png)
 
 ### Code Links
 For more detailed information and example code about ARKit and ARCore, please visit the following links:
