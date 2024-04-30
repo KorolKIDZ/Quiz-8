@@ -1,4 +1,4 @@
-# Imaging Technology Inspiration Section
+# Imaging Technology Inspiration
 
 ## Technology of choice: Augmented Reality (AR)
 
@@ -10,7 +10,7 @@ The imaging techniques I chose are inspired by the mobile game Pokemon Go, which
 
 "Pokemon Go" uses AR technology to capture the real-world environment through the phone's camera and projects virtual Pokémon onto the screen. This technology's use extends beyond gaming to fields such as education, health, and business, highlighting AR's significant potential to enhance user interaction and experience.
 
-# Coding technology exploration section
+# Coding technology exploration
 
 ## Technologies of choice: ARKit and ARCore
 
