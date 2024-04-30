@@ -5,7 +5,7 @@
 ### Source of inspiration
 The imaging techniques I chose are inspired by the mobile game Pokemon Go, which successfully implements augmented reality (AR) on mobile devices. By overlaying virtual elements onto real-world scenes, it provides a unique and interactive gaming experience, making virtual Pokemon appear as if they are in the real world.
 
-![Pokemon AR](Pokemon AR 1.png)
+![Pokemon AR](微信图片_20240430205712.png)
 ![Pokemon AR](Pokemon AR 2.png)
 
 "Pokemon Go" uses AR technology to capture the real-world environment through the phone's camera and projects virtual Pokémon onto the screen. This technology's use extends beyond gaming to fields such as education, health, and business, highlighting AR's significant potential to enhance user interaction and experience.
